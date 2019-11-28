@@ -3,7 +3,7 @@ json.array!(@boards) do |board|
   json.name board.name
 
   json.lists board.lists do |list|
-    json.id list.id
+    json.id list.
     json.title list.title
     json.position list.position
 
