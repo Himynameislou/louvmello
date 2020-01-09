@@ -1,24 +1,19 @@
-# README
+# Mello
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mello is a Trello Clone.  It's an online style Kanban Board to help with managing work within your group.
 
-Things you may want to cover:
+## Technology Implemented:
 
-* Ruby version
+* JavaScript
 
-* System dependencies
+* Vanilla JS
 
-* Configuration
+* Jquery
 
-* Database creation
+* Modals
 
-* Database initialization
+* Authentication
 
-* How to run the test suite
+* Drag and Drop functionality
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
